@@ -1,0 +1,26 @@
+[
+    {
+      "title": "CAREPULSE",
+      "imageSrc": "projects/project.png",
+      "description": "This website is for Doctor Appointment.Reduces workload.",
+      "skills": ["React.JS", "Twillio", "Next.JS"],
+      "Link": "https://carepluss.netlify.app",
+      "source": "https://github.com/fury2587/Patient-Care.git"
+    },
+    {
+      "title": "BrainWave",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Tailwind","Next.JS"],
+      "Link": "https://next-gen-ui.netlify.app",
+      "source": "https://github.com/fury2587/brainwave"
+    },
+    {
+      "title": "Flight Booking",
+      "imageSrc": "projects/project.png",
+      "description": "It is a flight booking prototype.Made for learning skills.",
+      "skills": ["React", "NextJs", "Shad/ui"],
+      "Link": "https://kitt-flight.netlify.app",
+      "source": "https://github.com/fury2587/kitt-assignment"
+    }
+  ]

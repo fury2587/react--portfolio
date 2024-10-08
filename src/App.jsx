@@ -9,6 +9,7 @@ import About from "./component/About/About.jsx";
 import Experience from "./component/Experience/Experience.jsx" ;
 
 import Contact from "./component/Contact/Contact.jsx";
+import { Projects } from "./component/Projects/Projects.jsx";
 function App() {
   
 
@@ -22,8 +23,12 @@ function App() {
       <About  />
 
       <Experience  />
+
+      <Projects />
       
       <Contact />
+
+      
       
 
 
